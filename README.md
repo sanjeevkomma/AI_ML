@@ -94,6 +94,9 @@
   * [AI Frameworks & Libraries](https://dzone.com/articles/progressive-tools10-best-frameworks-and-libraries)
   * [AI and ML for Your Enterprise - Oracle](https://developer.oracle.com/developer-live/ai-ml-enterprise/)
   
+# Image
+1. AL VS ML VS DL
+* ![image](https://user-images.githubusercontent.com/7721150/155130814-711c6fd6-f286-4393-bfcf-00a6ae1f24d6.png)
 
 
      
