@@ -21,7 +21,7 @@
 1. Business Problem 
 2. Data Acquisition ( From Web serivces, Logs, Databases, APIs, Online Repositories )
 3. Data Preparation ( From Data Cleaning, Data Transformation ) 
-4. Exploratory Data Analysis
+4. Exploratory Data Analysis ( Python & R )
 5. Data Modeling ( KNN, Naive Bayes , Decision tree )
 6. Visualization & Communication ( Tableau, PowerBI, QlikView ) 
 7. Deployes and Maintains
